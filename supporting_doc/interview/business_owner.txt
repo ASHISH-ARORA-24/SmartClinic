@@ -1,0 +1,35 @@
+Interview Transcript – Notes for You
+EA (You/Me): Dr. Mehta, thanks for meeting. Can you share what triggered this EA engagement?
+
+Dr. Mehta (Business Owner):
+    Of course. We currently run 3 clinics across two cities. Each uses its own system — Excel sheets, paper, emails. It’s chaos. We’re overwhelmed with duplicate data, delays in billing, and no visibility into doctor schedules or patient records.
+
+EA: What are the top problems you're trying to solve?
+
+Dr. Mehta:
+    Digitize patient records across all clinics
+    Centralize doctor scheduling
+    Improve billing efficiency
+    Launch a mobile app for patients
+    Provide insights into clinic operations
+
+EA: Understood. What's your broader vision for SmartClinic?
+
+Dr. Mehta:
+    A digital-first chain of clinics where patients book, consult, and get reports via a single platform. We want to grow from 3 to 10 clinics in 2 years.
+
+EA: Are there any known constraints?
+Dr. Mehta:
+    Budget is fixed for Phase 1: ₹15 lakhs
+    Limited tech staff (just 1 internal IT manager)
+    No cloud infrastructure today
+    We can’t disrupt live clinic operations
+
+EA: Who are the key stakeholders we should involve?
+
+Dr. Mehta:
+    Myself and Dr. Rekha (Co-founder, handles operations)
+    IT Manager (Nikhil)
+    Finance Lead (Nazia)
+    Marketing Head (Anup, who will drive mobile app adoption)
+    Patient rep (selected regular patient, Ravi)
